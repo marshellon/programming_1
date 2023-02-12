@@ -18,12 +18,12 @@ The data set is derived from the World Bank and includes columns for population,
 ## requirements
 
 the code requirse the modules:
-pandas (for loading and handeling the data)
-numpy  (calculations)
-matplotlib (plotting)
-Summary_functions_and_code_clean_v12 (included needed for statistics)
-seaborn (spearmans test)
-yaml (reading config file)
+pandas (for loading and handeling the data),
+numpy  (calculations),
+matplotlib (plotting),
+Summary_functions_and_code_clean_v12 (included needed for statistics),
+seaborn (spearmans test),
+yaml (reading config file),
 
 The analysis demonstrates the link between the gross national product and CO2 emissions of various countries around the world.
 It accomplishes this by collecting data from both of the previously described datasets and plotting the two variables (GNP and emission) using a Spearman rank correlation test. 
