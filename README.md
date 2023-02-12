@@ -14,22 +14,29 @@ This dataset is critical for anyone interested in learning about their own envir
 The GNP dataset include the Gross National Product (GNP) of multiple countries from 1960 to 2018.
 The data set is derived from the World Bank and includes columns for population, GDP, inflation, fertility rate, migration, and production, as all of these factors contribute to the calculation of GDP. 
 
-# running the analysis.
-## requirements
-
-the code requirse the modules:
-pandas (for loading and handeling the data),
-numpy  (calculations),
-matplotlib (plotting),
-Summary_functions_and_code_clean_v12 (included needed for statistics),
-seaborn (spearmans test),
-yaml (reading config file),
 
 The analysis demonstrates the link between the gross national product and CO2 emissions of various countries around the world.
 It accomplishes this by collecting data from both of the previously described datasets and plotting the two variables (GNP and emission) using a Spearman rank correlation test. 
 
+# running the analysis.
+
+The notebook can be opened with the file called  GNP.ipynb
+read requirements to see what it needs.\
+
+## requirements
+
+the code requirse the modules:
+pandas (for loading and handeling the data)\
+numpy  (calculations)\
+matplotlib (plotting)\
+Summary_functions_and_code_clean_v12 (included needed for statistics)\
+seaborn (spearmans test)\
+yaml (reading config file)\
+The config Yml file can be edited to the correct data path\
+The two datasets are called demographic for the GNP data and GCB2022v27_MtCO2_flat for the emission data.\
+world-CO2-emission-vs-GDP is the picture loaded in the notebook
+
 
 The analises uses VS-code in combination with Jupiter notebook 
-
-
+#Licence
 The code is licensed undder the MIT license
