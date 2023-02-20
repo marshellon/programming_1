@@ -33,9 +33,12 @@ Summary_functions_and_code_clean_v12 (included needed for statistics)\
 seaborn (spearmans test)\
 yaml (reading config file)\
 ipywidgets (interactive plots)\
+
 The config Yml file can be edited to the correct data path\
 The two datasets are called demographic for the GNP data and GCB2022v27_MtCO2_flat for the emission data.\
 world-CO2-emission-vs-GDP is the picture loaded in the notebook
+
+to see and run the interactive plots the notebook should be opened in Jupyter notebook or VScode
 
 
 The analises uses VS-code in combination with Jupiter notebook 
