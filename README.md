@@ -40,8 +40,5 @@ world-CO2-emission-vs-GDP is the picture loaded in the notebook
 
 to see and run the interactive plots the notebook should be opened in Jupyter notebook or VScode
 
-
-The analises uses VS-code in combination with Jupiter notebook 
-
 # Licence
 The code is licensed undder the MIT license
